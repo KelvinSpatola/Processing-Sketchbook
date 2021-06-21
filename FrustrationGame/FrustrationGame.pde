@@ -11,16 +11,6 @@
  *                  2017230108                  *
  / ******************************************** */
 
-/* **************************************************
- * *************     NOTA IMPORTANTE     ************ 
- * **************************************************
- *   PARA A QUE ESTE CÓDIGO CORRA SEM NENHUM TIPO   *
- *   DE PROBLEMAS, É NECESSÁRIO TER A VERSÃO MAIS   * 
- *   ATUAL DO PROCESSING (vv. 3.5.5), JUNTAMENTE    *
- *   COM A VERSÃO MAIS ATUAL DA BIBLIOTECA DE SOM   *
- *   MINIM.                                         *
- ****************************************************/
-
 import ddf.minim.*;
 import ddf.minim.ugens.*;
 import ddf.minim.AudioPlayer;
