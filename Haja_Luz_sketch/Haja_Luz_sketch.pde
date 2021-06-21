@@ -38,7 +38,6 @@ void draw() {
   }
 
   //videoExport.saveFrame(); 
-  fps();
 }
 
 void keyPressed() {
